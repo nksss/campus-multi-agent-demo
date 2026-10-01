@@ -1,0 +1,7 @@
+student_id,name,date,status
+S001,张三,2026-09-30,present
+S001,张三,2026-09-29,late
+S002,李四,2026-09-30,present
+S002,李四,2026-09-29,absent
+S003,王五,2026-09-30,late
+S003,王五,2026-09-29,present
